@@ -1,0 +1,42 @@
+html { 
+  background: url(../img/drafting.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar_brand {
+
+
+    width: 180px;
+    height: 85px;
+}
+
+
+
+
+.jnavbar {
+	background-color: white;
+}
+
+.jcustom_navbar > li > a {
+	line-height: 47px;
+
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: #336c66;
+	font-family: 'Calibra-Light';
+	font-weight: 400;
+
+	
+
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+	color: #f14924;
+}
+
+
+
